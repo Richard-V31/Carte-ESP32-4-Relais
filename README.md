@@ -1,4 +1,8 @@
-# Module Relais 4 Canaux — ESP32 (Amazon ou AliExpress  ESP32_Relay X4_V1.1 (303E32AC411))
+## Module Relais 4 Canaux — ESP32 (Amazon ou AliExpress  ESP32_Relay X4_V1.1 (303E32AC411))
+![Platform](https://img.shields.io/badge/Platform-ESP32-green)
+![Framework](https://img.shields.io/badge/Framework-Arduino-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Release](https://img.shields.io/badge/Release-v1.0-orange)
 
 Contrôleur de relais WiFi pour ESP32, piloté via une page web intégrée (serveur local) et par 4 boutons poussoir physiques câblés en local.
 
